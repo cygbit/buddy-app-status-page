@@ -1,0 +1,55 @@
+owner: cygbit
+repo: buddy-app-status-page
+
+sites:
+  - name: Production API (ECS)
+    url: https://api-prod-v2.divewithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Production API (Legacy)
+    url: https://api-prod.divewithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Staging API
+    url: https://api-staging.divewithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Dev API
+    url: https://api-dev.divewithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+status-website:
+  cname: status.divewithbuddy.com
+  logoUrl: https://divewithbuddy.com/favicon.ico
+  name: Buddy App Status
+  introTitle: "**Buddy App** service status"
+  introMessage: This page shows the real-time status of our backend services. Powered by [Upptime](https://upptime.js.org).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  updates: "0 0 * * *"
+  graphs: "0 0 * * *"
+
+i18n:
+  activeIncidents: Active incidents
+  pastIncidents: Past incidents
+  pastIncidentsResolved: Resolved
+  liveStatus: Live status
+  allSystemsOperational: All systems operational
+  notAllSystemsOperational: Not all systems are operational
+  degradedPerformance: Degraded performance
+  completeOutage: Complete outage
