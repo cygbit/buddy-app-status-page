@@ -1,0 +1,16 @@
+name: Setup CI
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: upptime/uptime-monitor@v1
+        with:
+          command: "readme"
+      - uses: upptime/uptime-monitor@v1
+        with:
+          command: "site"
