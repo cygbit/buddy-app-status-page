@@ -7,15 +7,15 @@ jobs:
   uptime:
     runs-on: ubuntu-latest
     steps:
-      - uses: upptime/uptime-monitor@v1
+      - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "readme"
-      - uses: upptime/uptime-monitor@v1
+      - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "site"
-      - uses: upptime/uptime-monitor@v1
+      - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "response-time"
-      - uses: upptime/uptime-monitor@v1
+      - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "uptime"
