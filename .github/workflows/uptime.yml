@@ -15,19 +15,19 @@ jobs:
         with:
           command: "uptime"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
       - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "response-time"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
       - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "readme"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
       - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "site"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
