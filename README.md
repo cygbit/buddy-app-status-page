@@ -4,11 +4,11 @@ Uptime monitor and status page for Buddy App backend services, powered by [Uppti
 
 ## Monitored Services
 
-| Service | URL |
-|---|---|
+| Service        | URL                                          |
+| -------------- | -------------------------------------------- |
 | Production API | https://api-prod-v2.divewithbuddy.com/health |
-| Staging API | https://api-staging.divewithbuddy.com/health |
-| Dev API | https://api-dev.divewithbuddy.com/health |
+| Staging API    | https://api-staging.divewithbuddy.com/health |
+| Dev API        | https://api-dev.divewithbuddy.com/health     |
 
 ## How it works
 
