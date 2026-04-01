@@ -27,7 +27,6 @@ sites:
       - 200
 
 status-website:
-  baseUrl: /buddy-app-status-page
   cname: status.divewithbuddy.com
   logoUrl: https://divewithbuddy.com/favicon.ico
   name: Buddy App Status
