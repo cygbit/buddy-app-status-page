@@ -10,3 +10,5 @@ jobs:
       - uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "graphs"
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
