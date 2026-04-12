@@ -6,8 +6,8 @@
     "slug": "production-api-ecs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
@@ -15,9 +15,7 @@
     "timeWeek": 236,
     "timeMonth": 228,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2026-04-12": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production API (Legacy)",
