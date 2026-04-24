@@ -4,9 +4,9 @@
     "url": "https://api-prod-v2.divewithbuddy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod-v2.divewithbuddy.com.ico",
     "slug": "production-api-ecs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 236,
     "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-24": 0
+    }
   },
   {
     "name": "Production API (Legacy)",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 190,
+    "timeDay": 189,
     "timeWeek": 204,
     "timeMonth": 216,
     "timeYear": 216,
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 184,
+    "timeDay": 181,
     "timeWeek": 201,
     "timeMonth": 204,
     "timeYear": 204,
