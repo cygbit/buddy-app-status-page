@@ -24,18 +24,20 @@
     "url": "https://api-prod.divewithbuddy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.divewithbuddy.com.ico",
     "slug": "production-api-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 200,
-    "timeWeek": 223,
+    "timeDay": 203,
+    "timeWeek": 224,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 0
+    }
   },
   {
     "name": "Staging API",
@@ -49,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 178,
+    "timeDay": 176,
     "timeWeek": 237,
     "timeMonth": 222,
     "timeYear": 222,
@@ -67,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 179,
+    "timeDay": 178,
     "timeWeek": 217,
     "timeMonth": 207,
     "timeYear": 207,
