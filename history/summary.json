@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 186,
+    "timeDay": 189,
     "timeWeek": 188,
-    "timeMonth": 187,
+    "timeMonth": 188,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2026-04-24": 21
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 197,
-    "timeDay": 184,
+    "timeDay": 186,
     "timeWeek": 182,
     "timeMonth": 181,
     "timeYear": 197,
@@ -64,8 +64,8 @@
     "slug": "dev-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
@@ -74,7 +74,7 @@
     "timeMonth": 175,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2026-09-07": 1
+      "2026-09-07": 2
     }
   }
 ]
