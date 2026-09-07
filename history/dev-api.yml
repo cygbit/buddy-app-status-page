@@ -1,7 +1,7 @@
 url: https://api-dev.divewithbuddy.com/health
-status: up
-code: 200
-responseTime: 206
-lastUpdated: 2026-09-07T10:06:00.513Z
+status: down
+code: 502
+responseTime: 154
+lastUpdated: 2026-09-07T10:24:35.862Z
 startTime: 2026-04-01T07:40:15.792Z
 generator: Upptime <https://github.com/upptime/upptime>
