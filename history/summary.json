@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 179,
+    "time": 211,
+    "timeDay": 178,
     "timeWeek": 189,
     "timeMonth": 187,
-    "timeYear": 212,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2026-04-24": 21
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 196,
-    "timeDay": 158,
+    "timeDay": 156,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 196,
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 161,
+    "timeDay": 160,
     "timeWeek": 173,
     "timeMonth": 173,
     "timeYear": 194,
@@ -63,18 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.divewithbuddy.com.ico",
     "slug": "dev-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 171,
+    "timeDay": 170,
     "timeWeek": 176,
     "timeMonth": 175,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2026-09-07": 76
-    }
+    "dailyMinutesDown": {}
   }
 ]
