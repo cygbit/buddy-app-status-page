@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod-v2.divewithbuddy.com.ico",
     "slug": "production-api-ecs",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 211,
-    "timeDay": 179,
+    "uptimeYear": "100.00%",
+    "time": 212,
+    "timeDay": 178,
     "timeWeek": 189,
     "timeMonth": 187,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2026-04-24": 21
-    }
+    "timeYear": 212,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production API (Legacy)",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 196,
-    "timeDay": 156,
-    "timeWeek": 178,
+    "timeDay": 157,
+    "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 196,
     "dailyMinutesDown": {
@@ -51,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 160,
+    "timeDay": 159,
     "timeWeek": 173,
     "timeMonth": 173,
     "timeYear": 194,
