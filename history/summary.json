@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod-v2.divewithbuddy.com.ico",
     "slug": "production-api-ecs",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 168,
     "timeWeek": 174,
     "timeMonth": 180,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2026-04-24": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production API (Legacy)",
