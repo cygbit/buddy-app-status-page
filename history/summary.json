@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod-v2.divewithbuddy.com.ico",
     "slug": "production-api-ecs",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 175,
-    "timeWeek": 172,
+    "timeDay": 176,
+    "timeWeek": 171,
     "timeMonth": 180,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2026-04-24": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production API (Legacy)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.divewithbuddy.com.ico",
     "slug": "production-api-legacy",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 160,
     "timeWeek": 154,
     "timeMonth": 164,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2026-04-29": 156
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging API",
@@ -63,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.divewithbuddy.com.ico",
     "slug": "dev-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 156,
     "timeWeek": 151,
     "timeMonth": 159,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2026-09-07": 76
-    }
+    "dailyMinutesDown": {}
   }
 ]
